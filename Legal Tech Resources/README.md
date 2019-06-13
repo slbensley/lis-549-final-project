@@ -10,3 +10,5 @@ Final Project for LIS-549, a collection of resources about legal technology:
 - Added links to resources to the cards
 - Added CSS stylesheet and link to it in the index.html file
 - Added Javascript pop-up, with quote from legal futurist Richard Susskind
+
+https://slbensley.github.io/lis-549-final-project/
